@@ -1,0 +1,5 @@
+This is the hello world text. As usual this is a test. This is to learn the 
+git commands. Right now I am testing if the modified changes will be shown with
+the git status command.
+If shown then I will run the git add command to add it to the staging area. 
+And then commit to the local repository
